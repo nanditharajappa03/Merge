@@ -1,1 +1,1 @@
-d.txt is a file in branch2
+d.txt is one file in branch2
